@@ -19,12 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Using AES-GCM-SIV with JOSE and COSE"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
+docname: draft-paddon-jose-cose-aes-gcm-siv-latest
+submissiontype: "independent"
 number:
 date:
 consensus: true
@@ -45,9 +44,8 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Michael Paddon
+    email: michael@paddon.org
 
 normative:
 
